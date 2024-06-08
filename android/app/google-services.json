@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102510358321",
+    "project_id": "hyst-44be4",
+    "storage_bucket": "hyst-44be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102510358321:android:cc58b0c629347003ce8a10",
+        "android_client_info": {
+          "package_name": "com.dgldigital.hyst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlwanQaxoLjm9yt4w_1b4vVCCpwmmeEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
